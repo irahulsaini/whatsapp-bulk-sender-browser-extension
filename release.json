@@ -1,0 +1,9 @@
+{
+  "version": "1.6.1",
+  "browsers": [
+    "chrome",
+    "edge",
+    "firefox",
+    "opera"
+  ]
+}
